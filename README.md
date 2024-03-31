@@ -29,3 +29,8 @@ Example:
   </PropertyGroup>
 </Project>
 ````
+
+
+Installation:
+
+Just compile and then run the vsix file.
